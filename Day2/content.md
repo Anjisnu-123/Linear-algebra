@@ -24,13 +24,15 @@
   def of vectors,matrix-vector multiplication,imp of vector vector operation,Example of Ax=b
 
 
-# TENSORS:----------------Overview:Intropropmath foundationapplication importanceuse case
+# TENSORS:----------------
+
 
 ## Introduction to tensor: 
   defination,historical background,basic example,importance in math,application in technology
 ## why do we need tensors: 
   complex data rep,operations efficiency,framework utilization
-## prop of tensors: rank,shape,operations,transformation rules.
+## prop of tensors: 
+  rank,shape,operations,transformation rules.
 
 ## application in ai mlcomparison with other data str with tesors.
 ## tensor operation: element wise multiplication,matrix multiplication,.....
