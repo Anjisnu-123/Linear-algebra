@@ -32,7 +32,8 @@
   complex data rep,operations efficiency,framework utilization
 ## prop of tensors: rank,shape,operations,transformation rules.
 
-##application in ai mlcomparison with other data str with tesors.tensor operation: element wise multiplication,matrix multiplication,.....
+## application in ai mlcomparison with other data str with tesors.
+## tensor operation: element wise multiplication,matrix multiplication,.....
 
 
 
