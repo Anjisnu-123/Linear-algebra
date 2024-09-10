@@ -38,6 +38,10 @@
 ## tensor operation: element wise multiplication,matrix multiplication,.....
 
 
+## Eigen value and eigen vector
+## Diagonalization
+
+
 
 
 
