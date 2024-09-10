@@ -24,7 +24,7 @@
   def of vectors,matrix-vector multiplication,imp of vector vector operation,Example of Ax=b
 
 
-# TENSORS:----------------
+# --------------------:TENSORS:----------------
 
 
 ## Introduction to tensor: 
